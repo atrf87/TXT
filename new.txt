@@ -1,2 +1,6 @@
 git add new.txt
 git status
+My name is Andrei.
+I am 35 years.
+I do not have any pets.
+I want a salary of 2000$
